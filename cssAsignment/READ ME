@@ -1,0 +1,3 @@
+This is a simple dashboard using Bootstrap framework.
+It is responsive. It has carousel at the top and three cards with links after that. and at the end copyright.
+The cards will stack up acoording to the screen size.
